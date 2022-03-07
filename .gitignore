@@ -1,0 +1,6 @@
+# packaging
+_site
+.sass-cache
+.jekyll-metadata
+vendor
+.idea
